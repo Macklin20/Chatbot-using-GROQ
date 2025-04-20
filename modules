@@ -1,0 +1,5 @@
+pip install flask flask-cors python-dotenv langchain langchain-groq streamlit
+
+
+## in terminal 
+streamlit run app.py  ###
